@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+
+Welcome to this Community.
+
+In here you will be able to do any  project you want. No matter the level of it.
+You can do games, websites extensions and whatever else you want.
+No one will make fun of you.
+
+So far this is the top Repo:
+
+1. DotsDuelsOnline
+
+Please dont be shy about joining, this is to have fun.
+
+
 <!--
 
 **Here are some ideas to get you started:**
